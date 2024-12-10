@@ -64,7 +64,7 @@ export default function Header() {
           <img className='w-full' src="images/logo.png" alt></img>
         </div>
         <div className=''>
-          <span className='font-bold border-b-2 border-black mr-2'>Ratanda</span>Delhi, Rajasthan, India <RxCaretDown onClick={ShowSideMenu} className='cursor-pointer font-bold inline text-[1.3rem] text-[#ff5200]' />
+          <span className='font-bold border-b-2 border-black mr-2'>Ratanda</span>Jodhpur, Rajasthan, India <RxCaretDown onClick={ShowSideMenu} className='cursor-pointer font-bold inline text-[1.3rem] text-[#ff5200]' />
         </div>
         <nav className='list-none flex gap-5 ml-auto'>
           {links.map(
