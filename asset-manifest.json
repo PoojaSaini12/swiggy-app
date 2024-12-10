@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/swiggy-app/static/css/main.634680fa.css",
-    "main.js": "/swiggy-app/static/js/main.24d8e738.js",
+    "main.js": "/swiggy-app/static/js/main.cb3cde9c.js",
     "static/js/453.a38ed603.chunk.js": "/swiggy-app/static/js/453.a38ed603.chunk.js",
     "index.html": "/swiggy-app/index.html",
     "main.634680fa.css.map": "/swiggy-app/static/css/main.634680fa.css.map",
-    "main.24d8e738.js.map": "/swiggy-app/static/js/main.24d8e738.js.map",
+    "main.cb3cde9c.js.map": "/swiggy-app/static/js/main.cb3cde9c.js.map",
     "453.a38ed603.chunk.js.map": "/swiggy-app/static/js/453.a38ed603.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.634680fa.css",
-    "static/js/main.24d8e738.js"
+    "static/js/main.cb3cde9c.js"
   ]
 }
